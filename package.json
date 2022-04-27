@@ -1,0 +1,23 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bryan Hernandez <bryan.daniel.hernandez.santos@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "config": "^3.3.7",
+    "debug": "^4.3.4",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0",
+    "serve": "^13.0.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
